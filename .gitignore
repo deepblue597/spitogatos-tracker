@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+data/*.db
+frontend/node_modules/
+frontend/dist/
+ingest/bookmarklet.url.txt
